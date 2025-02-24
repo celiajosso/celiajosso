@@ -8,6 +8,6 @@
 
 ## 📫 How to reach me
 
-- ![LinkedIn](https://www.linkedin.com/in/celiajosso/)  
+- [LinkedIn](https://www.linkedin.com/in/celiajosso/)  
 
 - celia.josso@gmail.com

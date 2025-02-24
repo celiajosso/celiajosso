@@ -11,7 +11,3 @@
 - ![LinkedIn](https://www.linkedin.com/in/celiajosso/)  
 
 - celia.josso@gmail.com
-
-## 🎯 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=celiaj&show_icons=true&theme=tokyonight)

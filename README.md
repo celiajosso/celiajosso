@@ -4,7 +4,7 @@
 
 💡 Passionate about front-end and back-end development, software testing, and everything related to IT.
 
-📌 Very soon on Erasmus in Poznań, Poland  
+📌 Currently on Erasmus in Poznań, Poland  
 
 ## 📫 How to reach me
 

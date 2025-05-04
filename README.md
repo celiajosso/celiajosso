@@ -8,6 +8,8 @@
 
 ## 📫 How to reach me
 
+- [My Portfolio](https://www.celiajosso.vercel.app)  
+
 - [LinkedIn](https://www.linkedin.com/in/celiajosso/)  
 
 - celia.josso@gmail.com

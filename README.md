@@ -8,7 +8,7 @@
 
 ## 📫 How to reach me
 
-- [My Portfolio]([https://www.celiajosso.vercel.app](https://celiajosso.vercel.app/home))  
+- [My Portfolio](https://celiajosso.vercel.app/home) 
 
 - [LinkedIn](https://www.linkedin.com/in/celiajosso/)  
 
